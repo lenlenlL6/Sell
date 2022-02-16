@@ -1,0 +1,11 @@
+name: Sell
+main: lenlenlL6\sell\Sell
+author: lenlenlL6
+api: 4.0.0
+version: 1.0.0
+depend: EconomyAPI
+
+permissions:
+ sell.sell.command:
+  description: Allow the player use /sell command
+  default: true
