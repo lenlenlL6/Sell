@@ -1,0 +1,11 @@
+---
+#Format: "id.meta:cost", More: https://www.digminecraft.com/lists/item_id_list_pe.php
+
+sell:
+- "1.0:2" #Stone block
+- "4.0:2" #Cobblestone Block
+- "16.0:5"
+- "56.0:10"
+- "129.0:15"
+- "14.0:9"
+...
