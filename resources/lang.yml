@@ -1,0 +1,4 @@
+---
+CAN_NOT_BE_SELL: "§cThis item cannot be sell"
+SUCCESSFUL_SELL: "§aItem sold out and received §e{total} §amoney"
+...
